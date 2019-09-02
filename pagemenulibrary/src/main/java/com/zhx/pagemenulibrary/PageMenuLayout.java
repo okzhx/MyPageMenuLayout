@@ -12,7 +12,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 
-import com.stx.xhb.pagemenulibrary.R;
 import com.zhx.pagemenulibrary.adapter.PageViewPagerAdapter;
 import com.zhx.pagemenulibrary.adapter.EntranceAdapter;
 import com.zhx.pagemenulibrary.holder.PageMenuViewHolderCreator;
